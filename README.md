@@ -1,71 +1,37 @@
-<<<<<<< HEAD
-# Build Applications with GitHub Copilot Agent Mode
+<div align="center">
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+# 🎉 Congratulations mzakariamorchid-lang! 🎉
 
-Hey mzakariamorchid-lang!
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+### 🌟 You've successfully completed the exercise! 🌟
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## 🚀 Share Your Success!
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/mzakariamorchid-lang/skills-build-applications-w-copilot-agent-mode/issues/1)
-=======
-# Build applications with GitHub Copilot agent mode
+**Show off your new skills and inspire others!**
 
-<!-- ![](../../actions/workflows/0-start-course.yml/badge.svg?branch=main) -->
-<img src="https://github.com/user-attachments/assets/1b3ea5df-f18d-4ed8-9ae6-f96dc1861818" alt="octofit-tracker" width="300"/>
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fmzakariamorchid-lang%2Fskills-build-applications-w-copilot-agent-mode%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fmzakariamorchid-lang%2Fskills-build-applications-w-copilot-agent-mode%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fmzakariamorchid-lang%2Fskills-build-applications-w-copilot-agent-mode%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-_Build an application with GitHub Copilot agent mode in less than an hour._
+### 🎯 What's Next?
 
-## Welcome
+**Keep the momentum going!**
 
-People love how GitHub Copilot helps them write code faster and with fewer errors.
-But what if GitHub could create a multi-tier application with a presentation, logic, and data layers based on requirements written in natural language?
-In this exercise, we will prompt GitHub Copilot agent mode to create a complete application.
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/mzakariamorchid-lang/skills-build-applications-w-copilot-agent-mode/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
 
-- **Who is this for**: Intermediate developers familiar with GitHub Copilot, basic GitHub, and basic web development
-- **What you'll learn**: We'll introduce GitHub Copilot agent mode and how to use it for application development.
-- **What you'll build**: You'll use GitHub Copilot agent mode to create a fitness application as the gym teacher of a high school.
-- **Prerequisites**: Skills Exercise: <a href="https://github.com/skills/getting-started-with-github-copilot">Getting Started with GitHub Copilot</a>.
-- **How long**: This course takes less than one hour to complete.
+*There's no better way to learn than building things!* 🚀
 
-In this exercise, you will:
-
-1. Start up a preconfigured development environment for making a multi-tier application.
-1. Prompt in GitHub Copilot Chat and select the edit tab and select agent mode from the edit/agent drop-down.
-1. In this exercise I primarily used the latest default LLM.
-1. Try other LLM models to see other output.
-1. For each step open up a new Copilot Chat session by hitting the plus `+` icon in the Copilot Chat pane.
-
-### How to start this exercise
-
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
-
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=arilivigni&template_name=build-applications-w-copilot-agent-mode&owner=%40me&name=skills-build-applications-w-copilot-agent-mode&description=Exercise:+Build+applications+with+GitHub+Copilot+agent+mode&visibility=public)
-
-<details>
-<summary>Having trouble? 🤷</summary><br/>
-
-When copying the exercise, we recommend the following settings:
-
-- For owner, choose your personal account or an organization to host the repository.
-
-- We recommend creating a public repository, since private repositories will use Actions minutes.
-
-If the exercise isn't ready in 20 seconds, please check the "Actions" tab of your repository (or visit `https://github.com/<YOUR-USERNAME>/<YOUR-REPO>/actions`).
-
-- Check to see if a job is running. Sometimes it simply takes a bit longer.
-
-- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
-
-</details>
->>>>>>> be0022e (Initial commit)
+</div>
 
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-<<<<<<< HEAD
 
-=======
->>>>>>> be0022e (Initial commit)
